@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sanjuu143/image:google
+        image: sanjuu143/image:cultlogin
         ports:
         - containerPort: 80   
 
